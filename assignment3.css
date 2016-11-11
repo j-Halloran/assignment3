@@ -1,1 +1,17 @@
 /*styles for assignment 3*/
+h1{
+  text-align: center;
+  color: #000080;
+}
+
+body{
+    background: url(./images/flag.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: "courier new";
+}
+
+#contentHolder{
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
